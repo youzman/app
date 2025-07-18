@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">إشعارات كروس فاير</string>
+    <string name="navigation_drawer_open">فتح قائمة التنقل</string>
+    <string name="navigation_drawer_close">إغلاق قائمة التنقل</string>
+    <string name="nav_header_title">إشعارات كروس فاير</string>
+    <string name="nav_header_subtitle">احصل على آخر أخبار وأحداث اللعبة</string>
+    <string name="nav_header_desc">رأس التنقل</string>
+    <string name="action_settings">الإعدادات</string>
+
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_events">الأحداث</string>
+    <string name="menu_notifications">الإشعارات</string>
+    <string name="menu_settings">الإعدادات</string>
+    
+    <string name="default_notification_channel_id">crossfire_events_channel</string>
+    <string name="notification_channel_name">إشعارات أحداث كروس فاير</string>
+    <string name="notification_channel_description">إشعارات عن أحداث لعبة كروس فاير</string>
+    
+    <string name="no_events">لا توجد أحداث قادمة</string>
+    <string name="upcoming_events">الأحداث القادمة</string>
+    <string name="event_details">تفاصيل الحدث</string>
+    <string name="event_date">تاريخ الحدث</string>
+    <string name="event_time">وقت الحدث</string>
+    <string name="event_description">وصف الحدث</string>
+    <string name="event_rewards">المكافآت</string>
+    <string name="notification_settings">إعدادات الإشعارات</string>
+    <string name="enable_notifications">تفعيل الإشعارات</string>
+    <string name="notification_sound">صوت الإشعارات</string>
+    <string name="notification_vibration">اهتزاز الإشعارات</string>
+</resources>
